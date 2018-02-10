@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">POTTERS CLASS</string>
+    <string name="topic_textview_text">Topic: %s</string>
+    <string name="text_textview">Texts: %s</string>
+    <string name="introduction_textview_text">Introduction:\n%s</string>
+    <string name="table_of_content">Table of content</string>
+    <string name="memory_verse">M/V: %s</string>
+    <string name="outline_textview_text">Outline \n%s</string>
+    <string name="message_textview_text">Message \n%s</string>
+    <string name="conclusion_textview_text">Conclusion\n%s</string>
+    <string name="question_textview_text">Question: \n%s</string>
+</resources>
